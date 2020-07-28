@@ -1,7 +1,7 @@
 .history
 .vscode
 .idea
-/data/*
+data/
 /docs
 .editorconfig
 /src/vendor/*
