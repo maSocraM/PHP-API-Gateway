@@ -1,0 +1,9 @@
+.history
+.vscode
+.idea
+/data/*
+/docs
+.editorconfig
+/src/vendor/*
+storage
+commands.txt
