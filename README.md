@@ -2,7 +2,7 @@
 
 ## Instalação
 ### Docker
-Basta fazer o clone deste repositório e adicionar ao arquivo hosts o a entrada **"dev.local"** apontando para o IP **127.0.0.1**.
+Basta fazer o clone deste repositório, criar um diretório **""data""** na raiz do projeto e adicionar ao arquivo hosts o a entrada **"dev.local"** apontando para o IP **127.0.0.1**.
 
 ### Serviço local
 Utilizar o stack abaixo e configurar um virtual host apontando para o subdiretório "public", se for utilizado um serviço diferente do Apache Web Server, como por exemplo o NGINX, é necessário configurar as regras de rewrite similares às existentes em **"public/.htaccess"**.
